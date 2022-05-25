@@ -1,1 +1,6 @@
-#!/bin/bash
+pwd
+ctrl +d
+chmod u+x 0-current_working_directory
+git add .
+git commit -m 'yeah'
+git push
