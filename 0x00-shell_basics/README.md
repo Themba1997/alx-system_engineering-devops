@@ -1,1 +1,1 @@
- The long formate
+The long format
